@@ -1,3 +1,6 @@
+torch
+torchvision
+torchaudio
 numpy
 pandas
 tqdm
@@ -5,4 +8,8 @@ rdkit
 transformers
 SentencePiece
 scikit-learn
+poetry
 openpyxl
+ipywidgets
+ipykernel
+--find-links https://download.pytorch.org/whl/cu113

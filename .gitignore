@@ -1,0 +1,4 @@
+models/*
+dist/*
+__pycache__/*
+requiremen
